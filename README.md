@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **abbas152052@gmail.com**
 
-- 📄 Know about my experiences [https://codewithabbas.netlify.app/AbbasAli_Resume.pdf](https://codewithabbas.netlify.app/AbbasAli_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
